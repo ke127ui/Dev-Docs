@@ -6,8 +6,8 @@
 생년월일 | 1996-12-27
 연락처 | 010-5049-3592
 연락처2 | ke127.ui@gmail.com
-Portfolio | https://github.com/ke127ui
-Portfolio2 | https://ke127ui.github.io/ke_portfolio/
+github | https://github.com/ke127ui
+Portfolio | https://ke127ui.github.io/ke_portfolio/
 
 
 <br/>
