@@ -25,7 +25,7 @@
 강남 그린 컴퓨터 아카데미 수료 | 2020.06-2020.12 | 프론트앤드 수업 수료
 트랜스코스모스코리아 근무 | 2021.06-2022.06 | Docomo 대응 팀 소속
 프리아이브 근무 | 2022.12-2023.10 | 프론트앤드 팀 소속
-레몬헬스케어 근무 | 2024.04 ~ | LC기획그룹 소속
+레몬헬스케어 근무 | 2024.04 ~ | 서비스기획팀 소속
 
 <br/>
 
@@ -38,6 +38,7 @@ Skill | Note
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/> | fetch 구조를 통하여 api 불러오기 및 동적 페이지 화면을 구현할 수 있습니다.
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> | ajax를 통하여 api 불러오기 및 동적 페이지 화면을 구현할 수 있습니다.
 <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black"/> | component 구조를 이해하고 커스텀할 수 있습니다.
+<img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/> | nunjucks를 활용하여 gulp환경 구조를 이해하고 코드 작성이 가능합니다.
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> | Hooks 및 Component 구조를 이해하고 활용할 수 있습니다.
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/> | 툴을 이용할 수 있으며, 주어진 아이콘을 활용하여 간단한 커스텀을 할 수 있습니다.
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=black"/> | 툴을 이용하여 작업자간의 소통이 가능합니다.
