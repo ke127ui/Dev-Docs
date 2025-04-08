@@ -174,31 +174,9 @@ jquery를 이용하여 조직도의 api를 불러오는 구조 작성 및 공통
 
 <br />
 
-## 5. 레몬헬스케어
-> 2024.04 ~
-
-### 5-1. 서울대학교병원, 세브란스병원, 한국건강관리협회 등 96개 병원 운영
-* 작업 기여도: 40%
-* 작성 언어:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> 
-
-장애인 차별 금지법을 적용시켜 리뉴얼한 디자인을 적용시키며 html 표준 마크업을 준수하여 aira-*와 role 태그의 개념을 이해, 활용할 수 있게 된 경험이었습니다. 개인적인 공부 및 장차법 세미나, 컨퍼런스 등에 참여하여 지식을 쌓을 수 있었으며 보다 더 깔끔하고 위배되지 않는 ui마크업을 구현할 수 있게 되었습니다.
-
-
-
-### 5-2. 서울 아산병원 마이데이터 과제사업 퍼블리싱
-* 작업 기여도: 100%
-* 작성 언어:
-<img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> 
-
-세팅부터 파일 전달까지 89개의 페이지를 담당한 프로젝트입니다. 개인적으로 사이트를 참고해(참고 사이트: [uxkm](https://uxkm.io/buildSystem/gulp/01-gulp_start/01-intro#gsc.tab=0) ) nunjuck와 gulp를 이용하여 페이지를 작업하였고, 새로운 언어를 공부하고 활용할 수 있었던 프로젝트였습니다. 작업하며 알게 된 정보들은 [docs-study](https://github.com/ke127ui/Dev-Docs/blob/main/Study-Docs/gulp/history.md) 페이지에 별도 기재해, 차후 운용시 참조할 수 있도록 정리하였습니다.
-
-
-<br />
-
-## 6. 개인 포트폴리오
+## 5. 개인 포트폴리오
 > 2023.10 ~ing
-### [6-1. Golden Disc Awards 클론 페이지 제작](https://github.com/ke127ui/gda_clone)
+### [5-1. Golden Disc Awards 클론 페이지 제작](https://github.com/ke127ui/gda_clone)
 * <a href="https://ke127ui.github.io/gda_clone/" target="_blank">사이트 확인</a>
 * 작업 기여도: 100%
 * 작성 언어:
@@ -208,13 +186,35 @@ jquery를 이용하여 조직도의 api를 불러오는 구조 작성 및 공통
 
 <br />
 
-### [6-2. Portfolio(3)](https://github.com/ke127ui/ke_portfolio)
+### [5-2. Portfolio(3)](https://github.com/ke127ui/ke_portfolio)
 * <a href="https://ke127ui.github.io/ke_portfolio/" target="_blank">사이트 확인</a>
 * 작업 기여도: 100%
 * 작성 언어:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=black"/>
 
 jquery를 사용하지 않고 순수 바닐라 자바스크립트만을 사용하여 만들어보기 위해 도전한 포트폴리오 페이지입니다. 한 페이지에 정보를 전달할 수 있도록 디자인하고 싶어 피그마를 이용하여 [초안](https://www.figma.com/file/7AkUubnU1JD4Uyz83sQpYV/Untitled?type=design&node-id=0%3A1&mode=dev&t=lYI6s3jPZzT0jLlD-1)을 잡은 뒤, 생각나는 기능들을 작업하며 추가해 완성한 페이지입니다.
+
+<br />
+
+## 6. 레몬헬스케어
+> 2024.04 ~
+
+### 6-1. 서울대학교병원, 세브란스병원, 한국건강관리협회 등 96개 병원 운영
+* 작업 기여도: 40%
+* 작성 언어:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> 
+
+장애인 차별 금지법을 적용시켜 리뉴얼한 디자인을 적용시키며 html 표준 마크업을 준수하여 aira-*와 role 태그의 개념을 이해, 활용할 수 있게 된 경험이었습니다. 개인적인 공부 및 장차법 세미나, 컨퍼런스 등에 참여하여 지식을 쌓을 수 있었으며 보다 더 깔끔하고 위배되지 않는 ui마크업을 구현할 수 있게 되었습니다.
+
+
+
+### 6-2. 서울 아산병원 마이데이터 과제사업 퍼블리싱
+* 작업 기여도: 100%
+* 작성 언어:
+<img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> 
+
+세팅부터 파일 전달까지 89개의 페이지를 담당한 프로젝트입니다. 개인적으로 사이트를 참고해(참고 사이트: [uxkm](https://uxkm.io/buildSystem/gulp/01-gulp_start/01-intro#gsc.tab=0) ) nunjuck와 gulp를 이용하여 페이지를 작업하였고, 새로운 언어를 공부하고 활용할 수 있었던 프로젝트였습니다. 작업하며 알게 된 정보들은 [docs-study](https://github.com/ke127ui/Dev-Docs/blob/main/Study-Docs/gulp/history.md) 페이지에 별도 기재해, 차후 운용시 참조할 수 있도록 정리하였습니다.
+
 
 <br />
 
