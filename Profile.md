@@ -12,6 +12,23 @@ Portfolio | https://ke127ui.github.io/ke_portfolio/
 
 <br/>
 
+## Tech Stack
+Skill | Note
+-- | :--
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> | 웹 표준에 준수하여 주어진 디자인에 맞추어 구조를 짤 수 있으며 웹 접근성에 맞추어 코드 작성이 가능합니다.
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> | 변수, mixin, include 구조를 이해하고 활용할 수 있습니다.
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> | 선택자 구조를 이해하고 활용할 수 있습니다.
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/> | fetch 구조를 통하여 api 불러오기 및 동적 페이지 화면을 구현할 수 있습니다.
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> | ajax를 통하여 api 불러오기 및 동적 페이지 화면을 구현할 수 있습니다.
+<img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black"/> | component 구조를 이해하고 커스텀할 수 있습니다.
+<img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/> | nunjucks를 활용하여 gulp환경 구조를 이해하고 코드 작성이 가능합니다.
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> | Hooks 및 Component 구조를 이해하고 활용할 수 있습니다.
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/> | 툴을 이용할 수 있으며, 주어진 아이콘을 활용하여 간단한 커스텀을 할 수 있습니다.
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=black"/> | 툴을 이용하여 작업자간의 소통이 가능합니다.
+
+<br />
+<br/>
+
 ## Experience
 ### 01. 일본어 전공
 #### 01-1. 배화 여자 대학교, 인천공항 면세점
