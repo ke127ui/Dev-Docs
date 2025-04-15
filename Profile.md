@@ -7,7 +7,7 @@
 연락처 | 010-5049-3592
 연락처2 | ke127.ui@gmail.com
 github | https://github.com/ke127ui
-Portfolio | https://ke127ui.github.io/ke_portfolio/
+
 
 
 <br/>
