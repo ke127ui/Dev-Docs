@@ -152,7 +152,7 @@ XD파일로 받은 디자인에 맞추어 퍼블리싱 코딩을 작업하면 �
 ## 4. 프리아이브
 > 2022.12-2023.10
 ### 4-1. 카카오 브레인 어드민 페이지 제작
-* 작업 기여도: 20%
+* 작업 기여도: 100%
 * 작성 언어:
 <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black"/> <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
 
@@ -160,7 +160,7 @@ XD파일로 받은 디자인에 맞추어 퍼블리싱 코딩을 작업하면 �
 
 ### 4-2. 라이나 생명 프로젝트
 * <a href="https://www.lina.co.kr/product/easy" target="_blank">사이트 확인</a> | <a href="https://www.lina.co.kr/customer/required" target="_blank">사이트 확인</a> | <a href="https://www.lina.co.kr/service/diagnosis/guide" target="_blank">사이트 확인</a>
-* 작업 기여도: 15%
+* 작업 기여도: 100%
 * 작성 언어:
 <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> Element UI
 
@@ -168,7 +168,7 @@ XD파일로 받은 디자인에 맞추어 퍼블리싱 코딩을 작업하면 �
 프로젝트의 막바지에 들어가, 수정된 디자인 변경과 접근성 요소를 검사하는 업무에 배정받아 해당 프로젝트에서 웹접근성에 알맞는 디자인 요소, aria- 요소를 사용해야 하는 경우 등을 배울 수 있는 경험이었습니다.
 
 ### 4-3. 롯데 렌터카 어드민 페이지 제작
-* 작업 기여도: 50%
+* 작업 기여도: 100%
 * 작성 언어:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 
