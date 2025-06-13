@@ -32,7 +32,6 @@
 ## 1. 강남 그린 컴퓨터 아카데미
 > 2020.06-2020.12
 ### 1-1. [모두의 문구](https://github.com/ke127ui/momun)
-* <a href="https://ke127ui.github.io/momun/index.html" target="_blank">사이트 확인</a>
 * 작업 기여도: 100%
 * 작성 언어:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
