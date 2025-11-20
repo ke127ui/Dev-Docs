@@ -16,7 +16,7 @@
     1. [Suntory hall 이벤트 페이지 제작](https://github.com/ke127ui/Dev-Docs/tree/main/My-Projects#2-8-suntory-hall-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%9C%EC%9E%91)
 1. [개인 포트폴리오](https://github.com/ke127ui/Dev-Docs/tree/main/My-Projects#4-%EA%B0%9C%EC%9D%B8-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
 
-1. [프리아이브](https://github.com/ke127ui/Dev-Docs/tree/main/My-Projects#3-%ED%94%84%EB%A6%AC%EC%95%84%EC%9D%B4%EB%B8%8C)
+1. [프리아이브](https://github.com/ke127ui/Dev-Docs/tree/main/My-Projects#4-%ED%94%84%EB%A6%AC%EC%95%84%EC%9D%B4%EB%B8%8C)
     1. [카카오 브레인 어드민 페이지 제작](https://github.com/ke127ui/Dev-Docs/tree/main/My-Projects#4-1-카카오-브레인-어드민-페이지-제작)
     1. [라이나 생명 프로젝트](https://github.com/ke127ui/Dev-Docs/tree/main/My-Projects#4-2-라이나-생명-프로젝트)
     1. [롯데 렌터카 어드민 페이지 제작](https://github.com/ke127ui/Dev-Docs/tree/main/My-Projects#4-3-롯데-렌터카-어드민-페이지-제작)
