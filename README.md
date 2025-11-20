@@ -25,7 +25,8 @@
 강남 그린 컴퓨터 아카데미 수료 | 2020.06-2020.12 | 프론트앤드 수업 수료
 트랜스코스모스코리아 근무 | 2021.06-2022.06 | Docomo 대응 팀 소속
 프리아이브 근무 | 2022.12-2023.10 | 프론트앤드 팀 소속
-레몬헬스케어 근무 | 2024.04 ~ | 서비스기획팀 소속
+레몬헬스케어 근무 | 2024.04 ~ 2025.06 | 서비스기획팀 소속
+유니에스 근무 | 2025.06 ~ 재직중 | 성균관대학교 정보통신팀 소속
 
 <br/>
 
@@ -58,3 +59,4 @@ Skill | Note
 > [git profile 꾸미기1](https://newwisdom.tistory.com/12) | [git profile 꾸미기2](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0) <br/>
 > [capsule-render](https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md) <br/>
 > [shields](https://shields.io/) | [simpleicons](https://simpleicons.org/)
+
