@@ -236,5 +236,6 @@ jquery를 사용하지 않고 순수 바닐라 자바스크립트만을 사용�
 > 2025.06 ~
 
 <br />
+유니에스 소속으로 성균관대학교 정보통신팀의 퍼블리싱 담당으로 파견되어 성균관대학교 내의 학과 및 연구소의 페이지 퍼블리싱 관리를 담당하고 있습니다. 자체 제공되는 cms서비스 파악 및 사용되는 공통 css를 파악하여 유지보수에 임하고 있습니다.
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:CDF1F2,100:F4D1F5)
