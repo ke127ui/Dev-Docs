@@ -43,6 +43,7 @@ Skill | Note
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> | Hooks 및 Component 구조를 이해하고 활용할 수 있습니다.
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/> | 툴을 이용할 수 있으며, 주어진 아이콘을 활용하여 간단한 커스텀을 할 수 있습니다.
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=black"/> | 툴을 이용하여 작업자간의 소통이 가능합니다.
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=black](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/> | Table Editor를 사용하여 데이터 관리 및 javascript를 사용해 api 호출 및 마크업 응용이 가능합니다.
 
 <br />
 
@@ -59,4 +60,5 @@ Skill | Note
 > [git profile 꾸미기1](https://newwisdom.tistory.com/12) | [git profile 꾸미기2](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0) <br/>
 > [capsule-render](https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md) <br/>
 > [shields](https://shields.io/) | [simpleicons](https://simpleicons.org/)
+
 
