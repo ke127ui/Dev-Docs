@@ -1,0 +1,13 @@
+// 접근성 준수한 hide 처리(스크린 리더기에 읽힘)
+
+.blind{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    clip-path: polygon(0 0, 0 0, 0 0);
+    overflow: hidden;
+    padding: 0;
+    white-space: nowrap;
+    border-width: 0;
+}
